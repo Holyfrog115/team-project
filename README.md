@@ -5,8 +5,8 @@
 | Участник       | Роль        | Вариант | Файлы                    | Пункты меню |
 |----------------|-------------|---------|--------------------------|-------------|
 | Конышев Е. Г.  | техлид      | 63      | konyshev.h, konyshev.cpp | 1–2         |
-| Сокол Я. И.    | разработчик | 17      | ivanov.h, ivanov.cpp     | 3-5         |
+| Сокол Я. И.    | разработчик | 39      | sokol.h, sokol.cpp       | 3-5         |
 
 ## Сборка и запуск
-g++ main.cpp ivanov.cpp petrov.cpp sidorova.cpp -o app
+g++ main.cpp konyshev.cpp sokol.cpp -o app
 ./app
